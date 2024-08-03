@@ -17,3 +17,7 @@ Repositorio creado con el propósito de proteger la integridad de todas las acta
   - [24048 actas (Google Drive)](https://drive.google.com/drive/folders/1I_Ae22mpHUg4xJGz1WTv_F5J8g2zTwqm) de [fuente independiente](https://github.com/xaiki/resultadosvzla-tools).
   - [Información de 24532 actas](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv), de [Página origen](https://resultadosconvzla.com/) y [nombres, tamaño y sha256 para realizar validaciones](https://raw.githubusercontent.com/Vcoder4/Venezuela-actas-2024-archive/main/24532%20actas%20sha256.json).
   - [26640 actas (GitHub)](https://github.com/Strvm/vnzla-libre/tree/main/images) de fuente independiente.
+- Actas totales, ¿Cuántas son?
+  - 24532 de [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv).
+  - 2642 de multiples fuentes (no registrados en [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv)).
+  - Un numero total de 27175 actas, sin duda hay muchos duplicados ya que en https://resultadosconvzla.com/ está indicado que son 24532.
