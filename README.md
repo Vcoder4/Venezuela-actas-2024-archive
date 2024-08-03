@@ -12,7 +12,7 @@
     - Función: Descarga de las actas
     - Lenguajes: Go
 - Descargas alternas
-  - [22817 actas (Mediafire) en 6 archivos](https://www.mediafire.com/folder/p1i5nx46yktay) de [fuente independiente](github.com/Eitol/verificador_elecciones2024_ve).
+  - [22817 actas (Mediafire) en 6 archivos](https://www.mediafire.com/folder/p1i5nx46yktay) de [fuente independiente](https://github.com/Eitol/verificador_elecciones2024_ve).
   - [24048 actas (Google Drive)](https://drive.google.com/drive/folders/1I_Ae22mpHUg4xJGz1WTv_F5J8g2zTwqm) de [fuente independiente](https://github.com/xaiki/resultadosvzla-tools).
   - [26640 actas (GitHub)](https://github.com/Strvm/vnzla-libre/tree/main/images) de fuente independiente.
 - Actas totales, ¿Cuántas son?
