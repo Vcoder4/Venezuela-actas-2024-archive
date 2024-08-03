@@ -1,7 +1,6 @@
-Repositorio creado con el propósito de proteger la integridad de todas las actas recolectadas hasta ahora e intentar centralizar la información un poco.
+# Repositorio creado con el propósito de proteger la integridad de todas las actas recolectadas hasta ahora e intentar centralizar la información un poco.
 
-- [Página origen de Comando ConVzla: Resultados con Venezuela](https://resultadosconvzla.com/)
-  - 
+## [Página origen de Comando ConVzla: Resultados con Venezuela](https://resultadosconvzla.com/)
 - Repositorios en GitHub
   - [Escaner de actas](https://github.com/Strvm/vnzla-libre)
     - Función: Escaneo del qr y procesamiento de esa información
@@ -18,6 +17,9 @@ Repositorio creado con el propósito de proteger la integridad de todas las acta
   - [Información de 24532 actas](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv), de [Página origen](https://resultadosconvzla.com/) y [nombres, tamaño y sha256 para realizar validaciones](https://raw.githubusercontent.com/Vcoder4/Venezuela-actas-2024-archive/main/24532%20actas%20sha256.json).
   - [26640 actas (GitHub)](https://github.com/Strvm/vnzla-libre/tree/main/images) de fuente independiente.
 - Actas totales, ¿Cuántas son?
-  - 24532 de [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv).
-  - 2642 de multiples fuentes (no registrados en [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv)).
-  - Un numero total de 27175 actas, sin duda hay muchos duplicados ya que en https://resultadosconvzla.com/ está indicado que son 24532.
+  - `24532` de [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv).
+  - `2642` de multiples fuentes (no registrados en [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv)).
+  - Dan un número total de `27175` actas, sin duda hay muchos duplicados ya que en https://resultadosconvzla.com/ está indicado que son `24532`, o talvez no son duplicados, sino `actas no registradas`.
+- Comprobación de actas
+  - En este repositorio están datos que pueden ayudar a verificar la `integridad criptográfica` de todas las actas escaneadas (que tengo), en caso de que alguien esté interesado, o simplemente por curiosidad (como yo XD).
+    - `nombre`, `hash(sha256)` y `tamaño` para las [24532 actas del csv](https://raw.githubusercontent.com/Vcoder4/Venezuela-actas-2024-archive/main/24532%20actas%20sha256.json), y [2642 actas no listadas en el csv](https://raw.githubusercontent.com/Vcoder4/Venezuela-actas-2024-archive/main/2642%20actas%20sha256.json)
