@@ -12,9 +12,9 @@
     - Función: Descarga de las actas
     - Lenguajes: Go
 - Descargas alternas
-  - [22817 actas (Mediafire) en 6 archivos](https://www.mediafire.com/folder/p1i5nx46yktay) de [fuente independiente](https://github.com/Eitol/verificador_elecciones2024_ve).
-  - [24048 actas (Google Drive)](https://drive.google.com/drive/folders/1I_Ae22mpHUg4xJGz1WTv_F5J8g2zTwqm) de [fuente independiente](https://github.com/xaiki/resultadosvzla-tools).
-  - [26640 actas (GitHub)](https://github.com/Strvm/vnzla-libre/tree/main/images) de fuente independiente.
+  - [22817 actas (Mediafire) en 6 archivos](https://www.mediafire.com/folder/p1i5nx46yktay) incompleto de [fuente independiente](https://github.com/Eitol/verificador_elecciones2024_ve).
+  - [24048 actas (Google Drive)](https://drive.google.com/drive/folders/1I_Ae22mpHUg4xJGz1WTv_F5J8g2zTwqm) incompleto de [fuente independiente](https://github.com/xaiki/resultadosvzla-tools).
+  - [27367 actas (GitHub)](https://github.com/Strvm/vnzla-libre/tree/main/images) completo de fuente independiente.
 - Actas totales, ¿Cuántas son?
   - `24532` de [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv).
   - `2642` de multiples fuentes (no registrados en [RESULTADOS_2024_CSV_V1.csv](https://static.resultadosconvzla.com/RESULTADOS_2024_CSV_V1.csv)).
